@@ -7,12 +7,12 @@ For this assignment you will need to upload your resume and provide links to you
 ## Submission Instructions
  
 ### GitHub
-Provide a link to your GitHub account here.
+Korene's [Github](https://github.com/korenes) Account
  
 ### LinkedIn
-Provide a link to your LinkedIn account here.
+Korene's [LinkedIn](https://www.linkedin.com/in/korenehstuart/) Account 
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
+[Link](https://github.com/korenes/resume/blob/master/Korene%20Stuart%20Resume_2019.pdf) to resume.
 
 > *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.
